@@ -50,5 +50,5 @@ Here are some ideas to get you started:
 - Company site: **[sanketana.com](https://www.sanketana.com)**
 
 **Fun facts ⚡**
-- I ran **[TCS 10K](https://tcsworld10k.procam.in/)** in under 61 minutes 🏃🏻
-- I practice **[Yoga](https://www.ishayoga.org)** everyday 🎾
+- I ran **[TCS 10K](https://tcsworld10k.procam.in/)** marathon under 61 minutes 🏃🏻
+- I practice **[Yoga](https://www.ishayoga.org)** everyday 🧘
