@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 #### About 🌏
 - I teach Computer Programming to kids in a **[Constructivist](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education))** tradition of **[Papert](http://papert.org/)** and **[Piaget](https://en.wikipedia.org/wiki/Jean_Piaget)**.
-- Founded **[Sanketana School of Code](https://www.sanketana.com)** in 2020.
 - I'm interested in Computer Programming as a powerful tool for developing Critical Thinking and Creative Self Expression.
 
 #### Work 🔭
