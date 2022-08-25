@@ -20,4 +20,11 @@ Here are some ideas to get you started:
 #### About 🌏
 - I teach Computer Programming to kids in a **[Constructivist](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education))** tradition of **[Papert](http://papert.org/)** and **[Piaget](https://en.wikipedia.org/wiki/Jean_Piaget)**.
 - Founded **[Sanketana School of Code](https://www.sanketana.com)** in 2020.
-- I'm interested in all Fun and Creative application of Computer Programming as a medium of learning.
+- I'm interested in Computer Programming as a powerful tool for developing Critical Thinking and Creative Self Expression.
+
+#### Work 🔭
+- Founder at **[Sanketana School of Code](https://www.sanketana.com)** since 2020.
+- Lead Data Architect at **[Maersk](https://www.maersk.com)** from Mar-2018 until Feb-2020.
+- Information Architect at **[IBM](https://www.IBM.com)** from Apr-2004 until Mar-2018
+- Software Engineer at **[iGate](https://www.igatepatni.com)** from Jan-2003 until Apr-2004
+- Technical Associate at **[CDAC](https://www.cdac.in)** from Jun-2001 until Jan-2003
