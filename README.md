@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - Lead Data Architect at **[Maersk](https://www.maersk.com)** from Mar-2018 until Feb-2020.
 - Information Architect at **[IBM](https://www.IBM.com)** from Apr-2004 until Mar-2018
 - Software Engineer at **[iGate](https://www.igatepatni.com)** from Jan-2003 until Apr-2004
-- Technical Associate at **[CDAC](https://www.cdac.in)** from Jun-2001 until Jan-2003
+- Technical Associate at **[CDAC](https://www.cdac.in)** (Erstwhile NCST) from Jun-2001 until Jan-2003
 
 #### Current Interests 🌱
 - Python
