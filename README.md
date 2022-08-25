@@ -28,3 +28,27 @@ Here are some ideas to get you started:
 - Information Architect at **[IBM](https://www.IBM.com)** from Apr-2004 until Mar-2018
 - Software Engineer at **[iGate](https://www.igatepatni.com)** from Jan-2003 until Apr-2004
 - Technical Associate at **[CDAC](https://www.cdac.in)** from Jun-2001 until Jan-2003
+
+#### Current Interests 🌱
+- Python
+- Pygame
+- HTML/CSS/JavaScript
+- Google Firebase
+- MIT App Inventor
+- Scratch
+
+#### Ask me about 💬
+- Introducing Coding to Kids
+- Game Programming
+- Web Development
+- Scratch Coding
+- Data Integration (ETL)
+- RDBMS
+
+#### Get in touch 📫
+- Mail: **abhinav@sanketana.com**
+- Company site: **[sanketana.com](https://www.sanketana.com)**
+
+**Fun facts ⚡**
+- I ran **[TCS 10K](https://tcsworld10k.procam.in/)** in under 61 minutes 🏃🏻
+- I practice **[Yoga](https://www.ishayoga.org)** everyday 🎾
